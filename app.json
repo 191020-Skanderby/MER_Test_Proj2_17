@@ -1,0 +1,26 @@
+{
+  "id": "8f8d4ed7-67df-4967-8615-d1a1f2348487",
+  "name": "ALProject2_17",
+  "publisher": "Skanderby",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://ALProject2_17.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
